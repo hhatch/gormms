@@ -3,3 +3,4 @@ syntax: glob
 
 *ipynb_checkpoints
 build
+__pycache__

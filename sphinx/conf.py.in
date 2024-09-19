@@ -122,6 +122,7 @@ def setup(app):
     app.add_js_file('https://pages.nist.gov/leaveNotice/js/jquery.leaveNotice-nist.min.js')
     app.add_css_file('https://pages.nist.gov/leaveNotice/css/jquery.leaveNotice.css')
     app.add_js_file('leave_notice.js')
+    app.add_js_file('hide_code_cells.js')
     return
 
 # -- Options for HTML output ----------------------------------------------

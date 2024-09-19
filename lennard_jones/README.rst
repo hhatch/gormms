@@ -17,3 +17,4 @@ which depends only on the LennardJones parameters.
 .. toctree::
 
    reference_configurations/readme.ipynb
+   canonical_monte_carlo/readme.ipynb

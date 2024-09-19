@@ -36,6 +36,8 @@ configure_file(
 configure_file(
   ${CMAKE_SOURCE_DIR}/sphinx/_build/_static/leave_notice.js ${BINARY_BUILD_DIR}/_static/leave_notice.js COPYONLY)
 configure_file(
+  ${CMAKE_SOURCE_DIR}/sphinx/_build/_static/hide_code_cells.js ${BINARY_BUILD_DIR}/_static/hide_code_cells.js COPYONLY)
+configure_file(
   ${CMAKE_SOURCE_DIR}/sphinx/_build/_templates/layout.html ${BINARY_BUILD_DIR}/_templates/layout.html COPYONLY)
 configure_file(
   ${CMAKE_SOURCE_DIR}/sphinx/_build/_templates/footer.html ${BINARY_BUILD_DIR}/_templates/footer.html COPYONLY)
