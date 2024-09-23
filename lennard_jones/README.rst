@@ -4,6 +4,8 @@ Lennard-Jones
 
 :math:`U/\epsilon = 4\left[\left(\frac{\sigma}{r}\right)^{12} - \left(\frac{\sigma}{r}\right)^6\right]`
 
+Add cutoff to equation above.
+Note to developers. Keep descriptions to a relative minimum and include a lot of references.
 See Allen and Tildesley or Frenkel and Smit.
 
 :math:`U_{LRC} = \sum_i \sum_j U_{LRC}^{ij} = \sum_i \sum_j C_{ij} n_i n_j`
