@@ -2,7 +2,7 @@
 Overview
 ********************************************************************************
 
-The Data Of Reproducible Models and Molecular Simulations (DORMMS) provides reproducible simulation :doc:`results <results/results>` for a variety of :doc:`models <models/models>` and :doc:`methods <methods/methods>`.
+DORMMS provides reproducible simulation :doc:`results <results/results>` for a variety of :doc:`models <models/models>` and :doc:`methods <methods/methods>`.
 
 .. note::
 
