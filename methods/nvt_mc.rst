@@ -10,7 +10,7 @@ The following data is available with this method.
    :glob:
    :maxdepth: 1
 
-   ../../results/lj_nvt_mc/readme.ipynb
+   ../../results/lj_nvt_mc.ipynb
 
 .. footbibliography::
 

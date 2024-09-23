@@ -7,6 +7,6 @@ The following methods are detailed below.
 .. toctree::
    :maxdepth: 2
 
-   block_averages/README
-   ref_configs/README
-   nvt_mc/README
+   block_averages
+   ref_configs
+   nvt_mc

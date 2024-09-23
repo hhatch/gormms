@@ -22,7 +22,7 @@ Results for the LJ model can be found here:
    :glob:
    :maxdepth: 2
 
-   ../../results/lj_ref_config/readme.ipynb
-   ../../results/lj_nvt_mc/readme.ipynb
+   ../../results/lj_ref_config.ipynb
+   ../../results/lj_nvt_mc.ipynb
 
 .. footbibliography::

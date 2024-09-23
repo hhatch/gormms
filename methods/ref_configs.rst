@@ -11,6 +11,6 @@ The following data is available with this method.
    :glob:
    :maxdepth: 1
 
-   ../../results/lj_ref_config/readme.ipynb
+   ../../results/lj_ref_config.ipynb
 
 .. footbibliography::

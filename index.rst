@@ -11,10 +11,11 @@ Contents:
 .. toctree::
 
    README
-   models/README
-   methods/README
-   results/README
+   models/models
+   methods/methods
+   results/results
    CONTACT
+   CONTRIBUTING
 
 Index
 ==================

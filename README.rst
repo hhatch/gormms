@@ -2,11 +2,7 @@
 Overview
 ********************************************************************************
 
-The Database Of Reproducible Models and Molecular Simulations (DORMMS) is an ongoing project whose aim is to provide well-documented simulation results for a variety of systems and from various simulation techniques.
-The results contained here are generated in-house at NIST.
-It is intended to provide guides for testing codes.
-Reproducing these results is a test of the correctness of codes, either written by the user or obtained elsewhere.
-The explicit conditions for each of the sets of results are supplied so that meaningful comparisons of your results with the ones listed here are possible.
+The Data Of Reproducible Models and Molecular Simulations (DORMMS) provides reproducible simulation :doc:`results <results/results>` for a variety of :doc:`models <models/models>` and :doc:`methods <methods/methods>`.
 
 .. note::
 
@@ -14,25 +10,16 @@ The explicit conditions for each of the sets of results are supplied so that mea
 
    Code Repository: https://github.com/usnistgov/dormms
 
-Installation
-==============
+Optional Installation
+======================
+
+Although data may be taken directly from this website, DORMMS may also be installed as a Python module.
 
 .. code-block:: bash
 
     pip install dormms
 
-
-For developers - compiling GORMMS
-***********************************
-
-.. code-block:: bash
-
-    pip install sphinx sphinx_rtd_theme nbsphinx numpy pandas matplotlib tabulate sphinxcontrib-bibtex dormms
-    sudo apt install pandoc
-    mkdir build
-    cd build
-    cmake ..
-    make
+Click the "Show Code >>" buttons in the :doc:`results <results/results>` for example usage.
 
 .. include:: DISCLAIMER.rst
 
