@@ -6,7 +6,7 @@ Lennard-Jones
 
 Add cutoff to equation above.
 Note to developers. Keep descriptions to a relative minimum and include a lot of references.
-See Allen and Tildesley or Frenkel and Smit.
+See :footcite:t:`allen_computer_1989` and :footcite:t:`frenkel_understanding_2002`.
 
 :math:`U_{LRC} = \sum_i \sum_j U_{LRC}^{ij} = \sum_i \sum_j C_{ij} n_i n_j`
 
@@ -20,3 +20,5 @@ which depends only on the LennardJones parameters.
 
    reference_configurations/readme.ipynb
    canonical_monte_carlo/readme.ipynb
+
+.. footbibliography::
