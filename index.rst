@@ -15,7 +15,7 @@ Contents:
    methods/methods
    results/results
    CONTACT
-   CONTRIBUTING
+   CONTRIBUTE
 
 Index
 ==================

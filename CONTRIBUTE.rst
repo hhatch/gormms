@@ -1,5 +1,5 @@
 *************************
-Contributing
+Contribute
 *************************
 
 :doc:`CONTACT` us with suggestions, issues or comments.
