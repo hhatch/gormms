@@ -8,5 +8,5 @@ The following methods are detailed below.
    :maxdepth: 2
 
    block_averages/README
-   reference_configurations/README
-   canonical_monte_carlo/README
+   ref_configs/README
+   nvt_mc/README

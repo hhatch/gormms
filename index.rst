@@ -13,6 +13,8 @@ Contents:
    README
    models/README
    methods/README
+   results/README
+   CONTACT
 
 Index
 ==================

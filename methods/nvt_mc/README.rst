@@ -7,9 +7,10 @@ Canonical Ensemble Metropolis Monte Carlo (NVT MC)
 The following data is available with this method.
 
 .. toctree::
+   :glob:
    :maxdepth: 1
 
-   ../../models/lennard_jones/canonical_monte_carlo/readme.ipynb
+   ../../results/lj_nvt_mc/readme.ipynb
 
 .. footbibliography::
 

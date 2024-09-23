@@ -16,9 +16,13 @@ where :math:`i` and :math:`j` are particle types i and j, :math:`n` are the numb
 
 which depends only on the LennardJones parameters.
 
-.. toctree::
+Results for the LJ model can be found here:
 
-   reference_configurations/readme.ipynb
-   canonical_monte_carlo/readme.ipynb
+.. toctree::
+   :glob:
+   :maxdepth: 2
+
+   ../../results/lj_ref_config/readme.ipynb
+   ../../results/lj_nvt_mc/readme.ipynb
 
 .. footbibliography::

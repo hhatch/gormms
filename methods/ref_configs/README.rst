@@ -8,8 +8,9 @@ These results are expected to be accurate to machine precision and do not involv
 The following data is available with this method.
 
 .. toctree::
+   :glob:
    :maxdepth: 1
 
-   ../../models/lennard_jones/reference_configurations/readme.ipynb
+   ../../results/lj_ref_config/readme.ipynb
 
 .. footbibliography::
