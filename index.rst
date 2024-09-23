@@ -11,7 +11,8 @@ Contents:
 .. toctree::
 
    README
-   lennard_jones/README
+   models/README
+   methods/README
 
 Index
 ==================
