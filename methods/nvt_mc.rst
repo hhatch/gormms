@@ -12,5 +12,6 @@ The following data is available with this method.
 
    ../../results/lj_nvt_mc.ipynb
 
-.. footbibliography::
+References:
 
+.. footbibliography::

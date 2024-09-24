@@ -14,5 +14,3 @@ Therefore, the difference between two :math:`\ln\Pi` at different values of :mat
 
 Thus, to reweight a histogram to a different value of :math:`\mu`, use the equation above and remove the constant by renormalization, :math:`\sum \Pi = 1`.
 The thermodynamic conjugate to :math:`N` is :math:`\beta\mu`, while the conjugate of :math:`U` is :math:`-\beta`.
-
-.. footbibliography::

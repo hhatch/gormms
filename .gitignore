@@ -2,5 +2,6 @@
 syntax: glob
 
 *ipynb_checkpoints
+*.swp
 build
 __pycache__
