@@ -1,7 +1,7 @@
-.. GORMMS documentation main file.
+.. DORMMS documentation main file.
 
 ###############################################################################
-DORMMS and GORMMS: Database and Graphics of Reproducible Molecular Simulations
+DORMMS: Data Of Reproducible Models and Molecular Simulations
 ###############################################################################
 
 .. include:: README.rst
@@ -11,7 +11,11 @@ Contents:
 .. toctree::
 
    README
-   lennard_jones/README
+   models/models
+   methods/methods
+   results/results
+   CONTACT
+   CONTRIBUTE
 
 Index
 ==================
